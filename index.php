@@ -1,5 +1,5 @@
 <?php
 
-header('Location:/Videolinks.html');
+header('Location:/VideoLinks.html');
 
 ?>
